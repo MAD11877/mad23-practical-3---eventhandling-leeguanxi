@@ -27,6 +27,18 @@
         android:testOnly="true"
         android:theme="@style/Theme.Week2practical_PLEASEWORKIMDESPERATE" >
         <activity
+            android:name="sg.edu.np.mad.week2practical_pleaseworkimdesperate.MessageGroup"
+            android:exported="false" />
+        <activity
+            android:name="sg.edu.np.mad.week2practical_pleaseworkimdesperate.ListActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name="sg.edu.np.mad.week2practical_pleaseworkimdesperate.MainActivity"
             android:exported="true" >
             <intent-filter>

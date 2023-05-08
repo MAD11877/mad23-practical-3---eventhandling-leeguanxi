@@ -2600,6 +2600,8 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btnFollow
+id btnGroup1
+id btnGroup2
 id btnMessage
 id buttonPanel
 id cache_measures
@@ -2691,6 +2693,7 @@ id fill_vertical
 id filled
 id fitToContents
 id fixed
+id flFragment
 id flip
 id floating
 id forever
@@ -2701,6 +2704,8 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
+id group1Fragment
+id group2Fragment
 id group_divider
 id grouping
 id groups
@@ -2717,6 +2722,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageBtn
 id imageView
 id immediateStop
 id included
@@ -3064,7 +3070,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_list
 layout activity_main
+layout activity_message_group
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3081,6 +3089,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_group1
+layout fragment_group2
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3196,6 +3206,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description

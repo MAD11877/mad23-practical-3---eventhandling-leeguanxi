@@ -4,6 +4,23 @@
             "outputFile": "sg.edu.np.mad.week2practical_pleaseworkimdesperate.app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
+                    "source": "D:\\AndroidSDK\\Android_SDK_HOME\\.gradle\\caches\\transforms-3\\7ba610368285ef737a15a687544ee720\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,37",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,269,353,437,533,635,737,3485",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "264,348,432,528,630,732,826,3569"
+                    }
+                },
+                {
                     "source": "D:\\OneDrive - Ngee Ann Polytechnic\\School\\Y2S1\\MAD\\Week03\\week3-github\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
@@ -23,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\leegu\\.gradle\\caches\\transforms-3\\7ba610368285ef737a15a687544ee720\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,37",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "199,269,353,437,533,635,737,3485",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "264,348,432,528,630,732,826,3569"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\leegu\\.gradle\\caches\\transforms-3\\b79e00459b51debe71c70b38b92dedee\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "D:\\AndroidSDK\\Android_SDK_HOME\\.gradle\\caches\\transforms-3\\b79e00459b51debe71c70b38b92dedee\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
