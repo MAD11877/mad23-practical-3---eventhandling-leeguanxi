@@ -18,7 +18,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    boolean followed = false;
+    User user = new User();
+    boolean followed = user.followed;
     public void onFollowClick(View v) {
         Log.v("HELLO", "Button Clicked!");
         if (followed){
